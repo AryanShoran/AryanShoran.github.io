@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 this is a test image for github
 
-![img_1](Index.png)
+![img_1](index.png)
 
 
 ![description](Img_Name.extension)
